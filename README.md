@@ -1,6 +1,6 @@
-### Midbar40 Github Pages 
+### midbar40 Github Pages 
 ## 누추한 곳에 오신 귀한 여러분들, 환영합니다👋
-
+# "비전공자 && 국비지원 => 양산형(공장형) 인재" 공식을 탈피하고자 노력중입니다
 <!--
 **midbar40/midbar40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
